@@ -10,8 +10,6 @@ vim.keymap.set("n", "<C-h>", ":wincmd h<CR>")
 vim.keymap.set("n", "<C-l>", ":wincmd l<CR>")
 
 --keymap for cd to initLua
-vim.keymap.set('n','<leader>lua',':cd C:/Users/arjun/AppData/Local/nvim')
-vim.keymap.set('n','<leader>go',':cd D:/Neovim')
 
 
 --  tab shortcuts
